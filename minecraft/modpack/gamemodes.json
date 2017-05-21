@@ -1,0 +1,14 @@
+{
+  "modes": [
+    "normal",
+    "factory",
+    "expert",
+    "crazy",
+    "peace-hard",
+    "hard",
+    "easy",
+    "peaceful"
+  ],
+  "default": "normal",
+  "common": "common"
+}
