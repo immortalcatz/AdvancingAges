@@ -1,0 +1,34 @@
+Changelog for Advancing Ages modpack
+************************************
+
++ = Added
+- = Removed
+# = Changed
+
+==============
+Version: 0.0.2
+Date:  22.5.17
+Stage:   Alpha
+Info:
+Made a config check and found out that many configs had to be changed.
+Oregen changes happening, soon pack will be playable but not at all done.
+So soon this pack will be published but it will get large updates.
+...
+
+===============
+Version:  0.0.1
+Date:  <22.5.17
+Stage:    Alpha
+Info:
+Project name change.
+All things done are still present, but versioning starting over.
+Pack has now many new things to look out for.
+We also have made the mod count a bit smaller so that the pack loads faster and we can have a more lagless pack.
+Here's some of the changes:
++HardLib
++HarderOres
++HarderWildlife
++Expanded Industry
++CustomOreGen (only because otherwise we cant use the harder* mods)
+#Configs
+And much more!
