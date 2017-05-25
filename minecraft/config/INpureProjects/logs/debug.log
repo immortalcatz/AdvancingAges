@@ -20,19 +20,15 @@ Found creative tab: BiblioCraftLights
 Found creative tab: BigReactors
 Found creative tab: apiculture
 Found creative tab: buildingBlocks
-Found creative tab: tabBiomesOPlenty
 Found creative tab: Botania
 Found creative tab: Botany
 Found creative tab: buildcraft.main
 Found creative tab: buildcraft.pipes
 Found creative tab: buildcraft.boards
-Found creative tab: buildcraft.facades
 Found creative tab: buildcraft.gates
-Found creative tab: clg
 Found creative tab: Calculator
 Found creative tab: CarpentersBlocks
 Found creative tab: tabCogs
-Found creative tab: compactmachines
 Found creative tab: redstone
 Found creative tab: combat
 Found creative tab: ComputerCraft
@@ -72,12 +68,6 @@ Found creative tab: Magneticraft|Main
 Found creative tab: Magneticraft|Electrical Age
 Found creative tab: Magneticraft|Information Age
 Found creative tab: tabMekanism
-Found creative tab: Metallurgy.Machines
-Found creative tab: Metallurgy.Tools
-Found creative tab: Metallurgy.Items
-Found creative tab: Metallurgy.Blocks
-Found creative tab: Metallurgy.Armor
-Found creative tab: metallurgyCore.items
 Found creative tab: MineFactory Reloaded
 Found creative tab: natura.plants
 Found creative tab: natura.nether
@@ -118,8 +108,6 @@ Found creative tab: TConstructMaterials
 Found creative tab: TConstructEquipables
 Found creative tab: TMechworks
 Found creative tab: thaumcraft
-Found creative tab: ThaumicTinkerer
-Found creative tab: brewing
 Found creative tab: thermaldynamics.creativeTab
 Found creative tab: thermaldynamics.creativeTabCovers
 Found creative tab: thermalexpansion.creativeTabBlocks
@@ -134,20 +122,12 @@ Found creative tab: twilightForest
 Found creative tab: ztones
 Found creative tab: bdew.ae2stuff
 Found creative tab: ae2wct
-Found creative tab: Aether Materials
-Found creative tab: Aether Blocks
-Found creative tab: Aether Miscellaneous
-Found creative tab: Aether Food
-Found creative tab: Aether Accessories
-Found creative tab: Aether Weapons
-Found creative tab: Companions
-Found creative tab: Aether Tools
-Found creative tab: Aether Armor
 Found creative tab: aobd
 Found creative tab: appliedenergistics2
 Found creative tab: appliedenergistics2.facades
 Found creative tab: avaritiaddons
-Found creative tab: Bagginses
+Found creative tab: betterquesting
+Found creative tab: biggercraftingtables
 Found creative tab: catwalks
 Found creative tab: tabFurniture
 Found creative tab: tabWoodChiselBlocks
@@ -181,6 +161,7 @@ Found creative tab: irontank
 Found creative tab: magicalcrops
 Found creative tab: magicalcropsarmour
 Found creative tab: malisisdoors
+Found creative tab: brewing
 Found creative tab: moarcarts
 Found creative tab: openmodularturrets
 Found creative tab: bdew.canisters
@@ -191,7 +172,6 @@ Found creative tab: tabQuantumFlux
 Found creative tab: tabRailcraftCos
 Found creative tab: RfTools
 Found creative tab: RfToolsDimlets
-Found creative tab: runicdungeons
 Found creative tab: tabSimplyJetpacks
 Found creative tab: techreborn
 Found creative tab: ThaumicEnergistics
@@ -255,8 +235,8 @@ override called. Params: Mekanism, GlowPanel, 0
 Regex match found! Mekanism:GlowPanel matches Mekanism:GlowPanel.
 Found ItemStack Mekanism:GlowPanel. 64xitem.GlowPanel@0
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: ImmersiveEngineering:stoneDecoration
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:stoneDecoration
+getRandomMaterial called. Returned: ImmersiveEngineering:metalDecoration_7
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:metalDecoration_7
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
@@ -264,8 +244,8 @@ Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
 getRandomMaterial called. Returned: ImmersiveEngineering:metalDecoration_5
 obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, ImmersiveEngineering:metalDecoration_5
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 5161
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 3440
+getFacadesSize called. Returned: 4728
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 4409
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
 Regex match found! BiblioCraft:* matches BiblioCraft:Armor Stand.
@@ -401,8 +381,8 @@ Found ItemStack BiblioCraft:tile.BiblioFramedChest. 64xtile.BiblioFramedChest@0
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 3794
-override called. Params: appliedenergistics2, item.ItemFacade, 3245
+getNumberOfTypes called. Returned: 3345
+override called. Params: appliedenergistics2, item.ItemFacade, 2924
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js
