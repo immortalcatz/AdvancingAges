@@ -1,19 +1,55 @@
 Changelog for Advancing Ages modpack
 ************************************
 
-+ = Added
-- = Removed
-# = Changed
-
+==============
+Version: 0.0.3
+Date:  25.5.17
+Stage:   Alpha
+Changes:
+  Mods:
+    Updated:
+      BiblioCraft v1.11.6 -> 1.11.7
+      ExtraPlanets 1.7.2 -> 1.7.3
+      OreExcavation 1.1.89 -> 1.1.92
+      GalacticraftCore, GalacticraftPlanets & MicdoodleCore 3.0.12.495 -> 3.0.12.497
+    Added:
+      Achievement Books
+      Bigger Crafting Tables
+      Better Questing (+Addons)
+    Removed:
+      Aether
+      Bagginses
+      Biomes O Plenty
+      Gilded Games Util
+      ThaumicTinkerer
+      Simple Achievements
+      Rockhounding
+      and more...
+    Enabled:
+      HoloInventory
+      LoginShield
+  Configs:
+    Little bit of cleaning..
+    Made worldgen work after removal of many mods.
+Info:
+  This pack update cleaned the modpack a bit so that working on it would be easier and that it would take less space and resources from players.
+  Next up is making guides, quests, progression and that sort of things. Some other things will also happen but will take a while.
+  Oregen is going to be a bit late from schedule, but will be done once there is time for it. Had to just fix the oregen so cofh wouldn't spam about json problems.
+  Pack will probably be released at 0.1.0 update.
 ==============
 Version: 0.0.2
 Date:  22.5.17
 Stage:   Alpha
 Info:
+Just a quick cofig update.
 Made a config check and found out that many configs had to be changed.
 Oregen changes happening, soon pack will be playable but not at all done.
-So soon this pack will be published but it will get large updates.
+So soon this pack will be published but it will get large updates along the way of making it.
 ...
+
++ = Added
+- = Removed
+# = Changed
 
 ===============
 Version:  0.0.1
