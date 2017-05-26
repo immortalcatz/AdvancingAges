@@ -2,6 +2,18 @@ Changelog for Advancing Ages modpack
 ************************************
 
 ==============
+Version: 0.0.4
+Date:  26.5.17
+Stage:   Alpha
+Changes:
+  Mods:
+    Removed:
+      Cogs of the machine
+      XACT
+Info:
+  Made changes due to CurseForge restrictions.
+
+==============
 Version: 0.0.3
 Date:  25.5.17
 Stage:   Alpha
@@ -14,6 +26,7 @@ Changes:
       GalacticraftCore, GalacticraftPlanets & MicdoodleCore 3.0.12.495 -> 3.0.12.497
     Added:
       Achievement Books
+      Adventure Backpack
       Bigger Crafting Tables
       Better Questing (+Addons)
     Removed:
@@ -21,6 +34,7 @@ Changes:
       Bagginses
       Biomes O Plenty
       Gilded Games Util
+      Harder Wildlife
       ThaumicTinkerer
       Simple Achievements
       Rockhounding
