@@ -12,7 +12,6 @@ NEI.hide(<extracells:pattern.fluid>);
 NEI.hide(<gendustry:GeneSample>);
 NEI.hide(<Botany:pigment>);
 NEI.hide(<Botany:clay>);
-NEI.hide(<globbypotato_rockhounding:globbypotato_rockhounding_blackColumns>);
 
 // - WIP Tooltips
 <Thaumcraft:ItemThaumonomicon>.addTooltip(format.red("[WIP] Not 100% accurate! Look in NEI for reference!"));

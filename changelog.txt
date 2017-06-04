@@ -2,6 +2,26 @@ Changelog for Advancing Ages modpack
 ************************************
 
 ==============
+Version: 0.0.6
+Date:  TBA/TBD
+Stage:   Alpha
+Changes:
+  Starting to make pack more customized..
+Info:
+  Now we are starting to get on with the things in the pack!
+  Now that the worldgen is fixed, we have time to work on customization!
+
+==============
+Version: 0.0.5
+Date:  27.5.17
+Stage:   Alpha
+Changes:
+  Configs:
+    Worldgen complete!
+Info:
+  Worldgen is fixed! Pack now out of experimental mode!
+
+==============
 Version: 0.0.4
 Date:  26.5.17
 Stage:   Alpha
@@ -44,7 +64,6 @@ Changes:
       LoginShield
   Configs:
     Little bit of cleaning..
-    Made worldgen work after removal of many mods.
 Info:
   This pack update cleaned the modpack a bit so that working on it would be easier and that it would take less space and resources from players.
   Next up is making guides, quests, progression and that sort of things. Some other things will also happen but will take a while.
